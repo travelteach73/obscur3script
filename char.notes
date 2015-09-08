@@ -1,0 +1,32 @@
+µ sys.
+þ sys.argv[1]
+ð sys.argv[2]
+¶ sys.exit()
+« --;
+» ++;
+ç x = x + y
+¹ ** 1
+² ** 2
+³ ** 3
+¤ x = x - y
+£ x = x * y
+€ x = x / y
+! ()
+$ var type
+% var in print
+^ **
+; var type
+° ""
+© str
+® var in input
+¡ int
+¿ float
+ñ \n
+Ç 10
+ß 100
+§ 1000
+¥ 10000
+× *
+÷ /
+¬ \t
+¦ """
